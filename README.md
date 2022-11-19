@@ -13,7 +13,7 @@ It is a decentralized application for creating and selling ERC721 tokens using E
 open gnache
 ### 2. Connect your metamask wallet to the network:
 - Copy the private address key and import it into metamask
-- Connect your metamask to the network hardhat: "127.0.0.1:8545", chainID: "31337".
+- Connect your metamask to the network ganache: "127.0.0.1:7545", chainID: "5777".
 
 ## Usage
 1. On the Create page we can create an NFT and put it up for sale. To do this we need to 1. Upload a picture in any format. 2. Enter data about title, description and price. 3. Click on the button "create". Next you need to confirm all requests from metamask.
